@@ -3,6 +3,7 @@ Python app to generate color-sorted collages from square images such as album ar
 
 # Dependencies
 Designed for Python 3.6.10
+
 PySimpleGUI 4 - NOTE: This app was programmed before PySimpleGUI transitioned to a payed model and was made with the original open source version. 
 
 # Usage:
