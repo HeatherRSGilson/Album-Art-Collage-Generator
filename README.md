@@ -1,5 +1,10 @@
 # AlbumArtCollageMaker
 Python app to generate color-sorted collages from square images such as album art
+
+# Dependencies
+Designed for Python 3.6.10
+PySimpleGUI 4 - NOTE: This app was programmed before PySimpleGUI transitioned to a payed model and was made with the original open source version. 
+
 # Usage:
 Run app from GUI.py
 
@@ -23,6 +28,7 @@ Select "Run" to output the image
 Example outputs can be found in repo
 
 # TODO
+- Investigate updating to PySimpleGUI 5
 - Fix stretch functionality
 - Add color interpolation for fill method
 - Add user warnings to GUI and implement error handling
