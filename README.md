@@ -17,7 +17,7 @@ Give your collage a file name (NOTE: THERE IS CURRENTLY NO OVERWRITE WARNING SO 
 Choose a desired ratio for your output image
 
 Options:
-Perfect Ratio checkbox will perform one of to methods to return an image with exactly the desired ratio.
+Perfect Ratio checkbox will perform one of two methods to return an image with exactly the desired ratio.
 If this is not selected, the program will find the closest ratio that can be generated with the number of images you have.
 Stretch method is currently not working.
 Fill method will randomly insert black squares into the collage to add enough tiles to perfect the ratio
